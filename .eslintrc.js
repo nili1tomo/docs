@@ -6,7 +6,7 @@ const ERROR = 2;
 
 /**
  * @type {import("eslint").Linter.Config}
- */
+ 
 module.exports = {
   parser: "@typescript-eslint/parser",
   plugins: [
